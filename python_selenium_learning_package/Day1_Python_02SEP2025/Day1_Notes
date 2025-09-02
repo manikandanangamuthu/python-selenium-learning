@@ -1,0 +1,36 @@
+Python Programming
+
+1) Python is high level general pupose programming language
+
+2) Python is open source langugae
+
+3) Platform independent
+
+
+History
+------------
+
+- The implementation of python was started in the December 1989  by Guido Van Rossum at CWI in Netgeland
+
+- In February 1991, van rossum pulished the code (labeled version 0.9.0)
+
+- Python 2.0 added new features like list comprehensions, garbage collection system.
+
+- On December 3, 2008, python 3.0 (also called "py3K") was released
+
+- Python is Influenced by :
+
+- ABC langugae
+
+- Modula-3
+
+Comments
+---------
+
+- Comments are used to write decription about logics to understand the logic easily
+
+- The main objective comments the code maintance will become easy
+
+- The comments are non-excuteable code
+
+- Python will ignore comments in run time
