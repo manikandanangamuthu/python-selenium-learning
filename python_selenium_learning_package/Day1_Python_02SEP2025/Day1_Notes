@@ -20,17 +20,44 @@ History
 
 - Python is Influenced by :
 
-- ABC langugae
+- ABC language
 
 - Modula-3
 
 Comments
 ---------
 
-- Comments are used to write decription about logics to understand the logic easily
+- Comments are used to write description about logics to understand the logic easily
 
-- The main objective comments the code maintance will become easy
+- The main objective comments the code maintain will become easy
 
-- The comments are non-excuteable code
+- The comments are non-executable code
 
 - Python will ignore comments in run time
+
+---------------------------------------------------------------------
+
+Keyword
+
+reserved words in python
+
+Data types:
+--------------
+
+- Dynamically typed programming language...
+
+Test type : str
+
+Numeric Types : int, float
+
+Sequence Types : list, tuple
+
+Mapping Type : dict
+
+Set Type : set
+
+Boolean type : bool
+
+
+
+
